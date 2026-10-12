@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Detected crops and temporary runtime images
+licenses_plates_imgs_detected/*.jpg
+licenses_plates_imgs_detected/*.png
+!licenses_plates_imgs_detected/.gitkeep
+
+# Detections output
+csv_detections/detection_results.csv
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp

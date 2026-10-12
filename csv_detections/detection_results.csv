@@ -1,0 +1,2 @@
+Vehicle ID,Plate Number,OCR Confidence,Plate Confidence,Vehicle Confidence,"Plate Box (x1,y1,x2,y2)","Vehicle Box (x1,y1,x2,y2)"
+1,KL 11 BK 7777,35.1%,75.3%,82.8%,"(156, 285, 287, 321)","(44, 50, 413, 381)"
